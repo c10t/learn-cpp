@@ -1,4 +1,6 @@
 local
 .vscode
 
+program
 *.out
+*.gch
